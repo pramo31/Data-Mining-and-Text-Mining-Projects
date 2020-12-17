@@ -1,0 +1,11 @@
+(
+(Accuracy 0.8)
+(Precision 0.84615)
+(Recall 0.73333)
+(F1 0.78571)
+(TPR 0.73333)
+(FPR 0.13333)
+(Specificity 0.86667)
+(Sensitivity 0.73333)
+(AUC 0.88444)
+)
